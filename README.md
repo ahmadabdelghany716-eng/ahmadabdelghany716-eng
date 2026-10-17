@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed
 
-<!--
-**ahmadabdelghany716-eng/ahmadabdelghany716-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering student | Embedded systems & signal processing
 
-Here are some ideas to get you started:
+## 🔧 What I work on
+- Embedded projects (Arduino, power electronics)
+- Signal processing (MATLAB, LabVIEW)
+- Assembly & computer architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools
+MATLAB • LabVIEW • Arduino • Multisim • EMU8086
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/ahmed-abdelghany-072742284
+- Email: ahmadabdelghany716@gmail.com
