@@ -4,8 +4,8 @@
 **3rd Year Electronics & Communications Engineering Student @ Alexandria University**
 
 📍 Alexandria, Egypt  
-✉️ **Email:** [Contact Me](mailto:your-email@example.com) | 💼 **LinkedIn:** [Your Profile](https://linkedin.com) | 🌐 **Portfolio:** [Your Portfolio](https://yourportfolio.com)
-
+✉️ **Email:** ahmadabdelghany716@gmail.com | 💼 **LinkedIn:** www.linkedin.com/in/ahmed-abdelghany-072742284
+| 🌐 **Portfolio:** (https://cv-craft-collaborator.lovable.app)
 ---
 
 ## 🚀 About Me
